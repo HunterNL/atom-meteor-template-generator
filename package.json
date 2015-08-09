@@ -2,7 +2,7 @@
   "name": "meteor-template-generator",
   "main": "./lib/meteor-template-generator",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Quick hacky Atom package to generate a Meteor.js template",
   "keywords": [
   ],
   "activationCommands": {
