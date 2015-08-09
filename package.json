@@ -1,0 +1,20 @@
+{
+  "name": "meteor-template-generator",
+  "main": "./lib/meteor-template-generator",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "meteor-template-generator:generate-template"
+  },
+  "repository": "https://github.com/HunterNL/atom-meteor-template-generator",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.2",
+    "fs-plus": "^2.8.1"
+  }
+}

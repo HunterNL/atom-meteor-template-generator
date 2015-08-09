@@ -1,0 +1,15 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'meteor-template-generator'
+      'submenu': [
+        {
+          'label': 'Generate Template'
+          'command': 'meteor-template-generator:generate-template'
+        }
+      ]
+    ]
+  }
+]
