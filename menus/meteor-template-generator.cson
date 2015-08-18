@@ -13,3 +13,8 @@
     ]
   }
 ]
+
+'context-menu':
+    ".tree-view.full-menu": [
+        {"label": "Generate Meteor Template", "command":"meteor-template-generator:generate-template"}
+    ]
