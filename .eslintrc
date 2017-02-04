@@ -1,0 +1,19 @@
+{
+  "env" : {
+    "node" : true,
+    "browser" : true,
+    "es6" : true,
+  },
+  "root" : true,
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "allowImportExportEverywhere": true
+  },
+  "extends": [
+    "airbnb",
+  ],
+  "rules": {
+    "no-trailing-spaces" : 0,
+    "import/no-absolute-path" : 0,
+    }
+}
