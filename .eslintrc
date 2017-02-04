@@ -15,5 +15,9 @@
   "rules": {
     "no-trailing-spaces" : 0,
     "import/no-absolute-path" : 0,
+    },
+  "globals" :
+    {
+    "atom" : true
     }
 }
