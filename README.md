@@ -1,3 +1,5 @@
-# meteor-template-generator package
+# Meteor Blaze template generator
 
-:tiger2:
+Simply generates Blaze templates in a way I like :)
+
+![gif of prompt being open and filled, followed by showing the resulting created files](http://i.imgur.com/28GjAm6.gif)
